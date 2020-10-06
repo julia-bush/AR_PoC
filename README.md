@@ -28,7 +28,7 @@ Identifies 2D (image) coordinates of the chessboard corners and computes corresp
 
 ### dxf_chessboard_corner_tracker.py
 
-Results/video/result_corner_tracking_dxf.avi was recorded by running this script.
+Results/result_corner_tracking_dxf.avi was recorded by running this script.
 
 Data/chess_3D.dxf was used to generate the geometry.
 
