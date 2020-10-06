@@ -14,7 +14,7 @@ The "Results" folder contains the "augmented reality" videos created from the un
 
 ## Code
 
-The .py scripts detailed below are executable. To run them yourself, you will need to copy all the .py files from this repository, as well as the contents of the "Data" folder, to your working directory, and install the packages listed in the requirements.txt. Or you can just look at the results.
+The .py scripts detailed below are executable. To run them yourself, you will need to copy all the .py files from this repository, Jcam.npz, as well as the contents of the "Data" folder, to your working directory, and install the packages listed in the requirements.txt. Or you can just look at the results.
 
 Here is a short description of what each script does, in order of increasing complexity:
 
