@@ -1,0 +1,3 @@
+result_corner_tracking.avi was recorded by running chessboard_corner_tracker.py.
+result_corner_tracking_dxf.avi was recorded by running dxf_chessboard_corner_tracker.py.
+result_tracking_by_minimising_model_edge_loss_1_min_per_frame.avi was recorded by running dxf_edge_tracking_chessboard.py.
