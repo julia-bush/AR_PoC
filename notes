@@ -1,0 +1,3 @@
+chess_3D.dxf is used to generate the rendered geometry by dxf_chessboard_corner_tracker.py to make Results/result_corner_tracking_dxf.avi.
+
+chess_small.dxf is used to generate the rendered geometry by dxf_edge_tracking_chessboard.py to make Results/result_tracking_by_minimising_model_edge_loss_1_min_per_frame.avi.
