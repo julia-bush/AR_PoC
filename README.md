@@ -1,6 +1,6 @@
 # AR_PoC
 
-Work in progress. Early stages.
+Work in progress.
 
 This is a proof of concept study to explore the feasibility of development of an Augmented Reality (AR) application with 3D model-based tracking, with a view to eventual application in Structural Health Monitoring.
 
@@ -9,12 +9,12 @@ So far only a toy object has been used for this study, namely a black and white 
 
 ## Results
 
-The "Results" folder contains the "augmented reality" videos created from the unedited video file "chess2.avi" (which I filmed for this purpose with the camera moving around the "chessboard").
+The "Results" folder contains the "augmented reality" videos created from the unedited video file "video/chess2.avi" (which I filmed for this purpose with the camera moving around the "chessboard").
 
 
 ## Code
 
-The .py scripts detailed below are executable. To run them yourself, you will need to copy all the .py files from this repository, Jcam.npz, as well as the contents of the "CAD" folder, to your working directory, and install the packages listed in the requirements.txt. Or you can just look at the results.
+The .py scripts detailed below are executable. To run them yourself, you will need to copy all the .py files from this repository, Jcam.npz, as well as the "CAD" and "video" folders, to your working directory, and install the packages listed in the requirements.txt. Or you can just look at the results.
 
 Here is a short description of what each script does, in order of increasing complexity:
 
