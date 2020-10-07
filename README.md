@@ -9,7 +9,7 @@ So far only a toy object has been used for this study, namely a black and white 
 
 ## Results
 
-The "Results" folder contains the "augmented reality" videos created from the unedited video file "DATA/chess2.avi" (which I filmed for this purpose with the camera moving around the "chessboard").
+The "Results" folder contains the "augmented reality" videos created from the unedited video file "chess2.avi" (which I filmed for this purpose with the camera moving around the "chessboard").
 
 
 ## Code
@@ -39,7 +39,7 @@ As above, except instead of a cube, the rendered geometry is imported automatica
 
 Results/result_tracking_by_minimising_model_edge_loss_1_min_per_frame.avi was recorded by running this script. It took around 1 minute to process each frame (using a single core of 8-core i7-9700KF @ 3.6GHz, 32GB RAM)
 
-Data/chess_small.dxf was used to generate the geometry.
+CAD/chess_small.dxf was used to generate the geometry.
 
 Here, only the first 10 frames of the video use the corner point correspondences (as above) to ensure high-fidelity initialisation. Thereafter, the pose is estimated by minimising the distance between the object edges (as they appear in the 2D video frame) and the line geometry (as imported from the .dxf 3D model file).
 
