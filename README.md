@@ -30,7 +30,7 @@ Identifies 2D (image) coordinates of the chessboard corners and computes corresp
 
 Results/result_corner_tracking_dxf.avi was recorded by running this script.
 
-Data/chess_3D.dxf was used to generate the geometry.
+CAD/chess_3D.dxf was used to generate the geometry.
 
 As above, except instead of a cube, the rendered geometry is imported automatically from a .dxf CAD model file, which can be created and edited, for example, in AutoCAD.
 
